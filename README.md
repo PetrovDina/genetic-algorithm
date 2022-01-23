@@ -1,3 +1,3 @@
 # Genetic Algorithm implementation 🧬
-## Nonlinear programming and evolutionary computations course project
+## Nonlinear Programming and Evolutionary Computations course project
 
