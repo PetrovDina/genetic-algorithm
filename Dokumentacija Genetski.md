@@ -1,7 +1,4 @@
-# Genetic Algorithm implementation 🧬
-## Nonlinear Programming and Evolutionary Computations course project
-
-![](Aspose.Words.9f929165-1679-4eb9-a44a-0d118558ce7f.001.png)![](Aspose.Words.9f929165-1679-4eb9-a44a-0d118558ce7f.002.png)![](Aspose.Words.9f929165-1679-4eb9-a44a-0d118558ce7f.003.png)
+﻿![](Aspose.Words.9f929165-1679-4eb9-a44a-0d118558ce7f.001.png)![](Aspose.Words.9f929165-1679-4eb9-a44a-0d118558ce7f.002.png)![](Aspose.Words.9f929165-1679-4eb9-a44a-0d118558ce7f.003.png)
 
 
 ![](Aspose.Words.9f929165-1679-4eb9-a44a-0d118558ce7f.004.png)
@@ -104,8 +101,6 @@ Neke od vrednosti algoritma koje su postavljen na početku su:
 - Razlika u rezultatima kada u populaciji imamo 200 i 300 jedinki je zanemarljivo mala, ali se u slučaju sa 200 jedinki program izvršava značajno brže.
 
 - Implementacijom koncepta elitizma, vreme izvršavanja programa je osetno duže nego što bi bilo koristeći neki drugi metod selekcije. Glavni razlog jeste postupak sortiranja svake populacije kako bi se izvukle najprilagođenije jedinke, što je dugotrajan proces sa velikim brojem generacija. Uprkos tome, svesno smo odabrale upravo taj metod kako bi naš algoritam bio što ‘sličniji’ prirodnim procesima evolucije koje oponaša. 
-
-
 
 
 
